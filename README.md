@@ -17,7 +17,7 @@ A modern, professional dictionary app built with HTML, CSS, and JavaScript using
 
 ##  Live Demo
 
-- **GitHub Pages**: [View Live](https://dictionary-app-pqhp.onrender.com)  
+- [View Live](https://dictionary-app-pqhp.onrender.com)  
 
 
 ---
