@@ -39,5 +39,5 @@ A modern, professional dictionary app built with HTML, CSS, and JavaScript using
 
 ---
 
-##  Folder Structure
+
 
