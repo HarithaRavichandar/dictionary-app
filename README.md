@@ -30,11 +30,6 @@ A modern, professional dictionary app built with HTML, CSS, and JavaScript using
 
 ---
 
-##  Preview
-
-> (Add screenshot here if you want. Just drag a screenshot into the markdown editor on GitHub.)
-
----
 
 ##  How to Use
 
